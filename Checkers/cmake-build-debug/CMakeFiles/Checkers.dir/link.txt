@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Checkers.dir/project/Main.cpp.o CMakeFiles/Checkers.dir/project/State.cpp.o CMakeFiles/Checkers.dir/project/Turn.cpp.o  -o Checkers 
