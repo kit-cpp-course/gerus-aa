@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Checkers"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/denisgrebenuk/Desktop/проектыСанек/Checkers/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/denisgrebenuk/Desktop/проектыСанек/Checkers/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/denisgrebenuk/Desktop/проектыСанек/Checkers/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/denisgrebenuk/Desktop/проектыСанек/Checkers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/denisgrebenuk/Desktop/проектыСанек/Checkers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/denisgrebenuk/Desktop/проектыСанек/Checkers/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/denisgrebenuk/Desktop/проектыСанек/Checkers/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/denisgrebenuk/Desktop/проектыСанек/Checkers/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/denisgrebenuk/Desktop/проектыСанек/Checkers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/denisgrebenuk/Desktop/проектыСанек/Checkers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/denisgrebenuk/Desktop/проектыСанек/Checkers/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/denisgrebenuk/Desktop/проектыСанек/Checkers/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/denisgrebenuk/Desktop/проектыСанек/Checkers/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/denisgrebenuk/Desktop/проектыСанек/Checkers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/denisgrebenuk/Desktop/проектыСанек/Checkers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Checkers">
+				<Option output="/Users/denisgrebenuk/Desktop/проектыСанек/Checkers/cmake-build-debug/Checkers" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/denisgrebenuk/Desktop/проектыСанек/Checkers/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/denisgrebenuk/Desktop/проектыСанек/Checkers/cmake-build-debug/Makefile&quot;  VERBOSE=1 Checkers"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/denisgrebenuk/Desktop/проектыСанек/Checkers/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/denisgrebenuk/Desktop/проектыСанек/Checkers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/denisgrebenuk/Desktop/проектыСанек/Checkers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Checkers/fast">
+				<Option output="/Users/denisgrebenuk/Desktop/проектыСанек/Checkers/cmake-build-debug/Checkers" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/denisgrebenuk/Desktop/проектыСанек/Checkers/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/denisgrebenuk/Desktop/проектыСанек/Checkers/cmake-build-debug/Makefile&quot;  VERBOSE=1 Checkers/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/denisgrebenuk/Desktop/проектыСанек/Checkers/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/denisgrebenuk/Desktop/проектыСанек/Checkers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/denisgrebenuk/Desktop/проектыСанек/Checkers/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/denisgrebenuk/Desktop/проектыСанек/Checkers/project/Coord.h">
+			<Option target="Checkers"/>
+		</Unit>
+		<Unit filename="/Users/denisgrebenuk/Desktop/проектыСанек/Checkers/project/Main.cpp">
+			<Option target="Checkers"/>
+		</Unit>
+		<Unit filename="/Users/denisgrebenuk/Desktop/проектыСанек/Checkers/project/State.cpp">
+			<Option target="Checkers"/>
+		</Unit>
+		<Unit filename="/Users/denisgrebenuk/Desktop/проектыСанек/Checkers/project/State.h">
+			<Option target="Checkers"/>
+		</Unit>
+		<Unit filename="/Users/denisgrebenuk/Desktop/проектыСанек/Checkers/project/Turn.cpp">
+			<Option target="Checkers"/>
+		</Unit>
+		<Unit filename="/Users/denisgrebenuk/Desktop/проектыСанек/Checkers/project/Turn.h">
+			<Option target="Checkers"/>
+		</Unit>
+		<Unit filename="/Users/denisgrebenuk/Desktop/проектыСанек/Checkers/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
